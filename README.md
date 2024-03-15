@@ -23,7 +23,8 @@ The developed travel booking application comprises four main components: Flight 
 ![Holidays-package](https://github.com/rakesh4902/tourism-website/assets/83058036/7d356548-9412-47a7-a901-c7a0636b41ac)
 
 #### Browsing Package Collections Page
-![Package-collection-2](https://github.com/rakesh4902/tourism-website/assets/83058036/c97bb4b1-dbd0-464c-83ce-e5b403d0a8a5)
+1.![Package-collection-1](https://github.com/rakesh4902/newspaperwebapp/assets/83058036/6eda0fc5-5a46-4dfd-ba4f-9ef9a9089004)
+2.![Package-collection-2](https://github.com/rakesh4902/tourism-website/assets/83058036/c97bb4b1-dbd0-464c-83ce-e5b403d0a8a5)
 
 ### "Discover your next adventure with our user-friendly tourism website. Explore flights, hotels, holiday packages, and curated collections for an unforgettable travel experience."
 
