@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Tourism-Website Page Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The developed travel booking application comprises four main components: Flight Booking, Hotel Booking, Holiday Packages, and Package Collection. Each component offers users a unique experience tailored to their travel needs. Users can seamlessly browse through flights, hotels, holiday packages, and curated collections of destinations, with intuitive navigation provided by a "Home" button on each page. This comprehensive solution empowers users to explore and book their ideal travel options from a single platform, enhancing their travel planning journey.
 
-## Available Scripts
+#### Home Page
+![Home](https://github.com/rakesh4902/tourism-website/assets/83058036/0cf65e37-fedc-4234-81ff-b7e50c3b9264)
 
-In the project directory, you can run:
 
-### `npm start`
+#### Browsing Flights Page
+![Flights](https://github.com/rakesh4902/tourism-website/assets/83058036/361a2259-6e6b-42de-b9ad-a14818123a46)
+
+#### Booking Flights Page
+![booking-flight](https://github.com/rakesh4902/tourism-website/assets/83058036/836baa93-a0f3-47d2-a9ef-a26c1399ce4f)
+
+
+#### Browsing Hotels Page
+![Hotels](https://github.com/rakesh4902/tourism-website/assets/83058036/716c47a4-56df-4ef8-8812-03197e6ef3ff)
+
+#### Booking Hotels Page
+![Hotels-bookig](https://github.com/rakesh4902/tourism-website/assets/83058036/de005c35-1e7b-4b98-849c-995ec276acf8)
+
+#### Browsing Holidays Package Page
+![Holidays-package](https://github.com/rakesh4902/tourism-website/assets/83058036/7d356548-9412-47a7-a901-c7a0636b41ac)
+
+#### Browsing Package Collections Page
+![Package-collection-2](https://github.com/rakesh4902/tourism-website/assets/83058036/c97bb4b1-dbd0-464c-83ce-e5b403d0a8a5)
+
+### "Discover your next adventure with our user-friendly tourism website. Explore flights, hotels, holiday packages, and curated collections for an unforgettable travel experience."
+
+
+### https://tinyurl.com/2tz4dmxu
+
+## How to Start This Application on Your Local PC
+
+To start this application on your local PC, follow these step-by-step instructions:
+
+#### 1. Download the Code:
+- First, download the zip file containing the application code from the GitHub repository.
+
+#### 2. Unzip the File:
+- Unzip the downloaded file to access the application code.
+
+#### 3. Open with VS Code:
+- Open the unzipped folder using any code editor, such as Visual Studio Code.
+
+#### 4. npm install
+- Run the command for installing the required packages
+  
+#### 5. npm start
+- Now Run this command to start with the application
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
