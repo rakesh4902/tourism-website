@@ -1,0 +1,161 @@
+.booking-confirmation{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.booking-heading{
+    color:crimson;
+    font-family: "Roboto";
+    font-size: 32px;
+}
+
+.flight-name{
+    color:rgb(213, 56, 56);
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+.from-to{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.from{
+    font-family: "Roboto";
+    font-size: 20px;
+    padding:5px;
+    margin-top: 0px;
+    color:maroon;
+}
+
+.flight-from{
+    color:darkgreen;
+    font-weight: bold;
+}
+
+.flight-details{
+    color:brown;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.user-details{
+    color:brown;
+    font-family: "Roboto";
+    font-size: 26px;
+    margin-left: 30px;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin:20px;
+  }
+  
+.button:hover {
+    background-color: darkblue;
+  }
+  
+.user-input-container{
+    padding:18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    width:300px;
+}
+
+.user-input{
+    color:darkmagenta;
+    font-family: 'Roboto';
+    font-size: 20px;
+   
+}
+
+.button-container-flights {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button-flights {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button-flights:hover {
+    background-color: rgb(5, 33, 5);
+  }
+  
+  .submission-message{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height:50vh;
+    margin:20px;
+    width:300px;
+}
+
+.flight-booked{
+  color:green;
+  font-family: "Roboto";
+  font-size: 22px;
+}
+
+  .submission-tick{
+    color:white;
+    background-color: green;
+    border-radius:100%;
+}
+
+.user-input-name{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin:5px;
+}
+
+.user-input-text{
+  height:20px;
+  width:260px;
+  border: 2px solid skyblue;
+  border-radius: 3px;
+  padding: 5px;
+  color:darkslategrey;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.flight-user-details{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px;
+  border-radius: 12px;
+}
+
