@@ -2,6 +2,12 @@
 
 The developed travel booking application comprises four main components: Flight Booking, Hotel Booking, Holiday Packages, and Package Collection. Each component offers users a unique experience tailored to their travel needs. Users can seamlessly browse through flights, hotels, holiday packages, and curated collections of destinations, with intuitive navigation provided by a "Home" button on each page. This comprehensive solution empowers users to explore and book their ideal travel options from a single platform, enhancing their travel planning journey.
 
+
+### "Discover your next adventure with our user-friendly tourism website. Explore flights, hotels, holiday packages, and curated collections for an unforgettable travel experience."
+
+
+### Here's the website - https://tinyurl.com/2tz4dmxu
+
 #### Home Page
 ![Home](https://github.com/rakesh4902/tourism-website/assets/83058036/0cf65e37-fedc-4234-81ff-b7e50c3b9264)
 
@@ -26,10 +32,6 @@ The developed travel booking application comprises four main components: Flight 
 1.![Package-collection-1](https://github.com/rakesh4902/newspaperwebapp/assets/83058036/6eda0fc5-5a46-4dfd-ba4f-9ef9a9089004)
 2.![Package-collection-2](https://github.com/rakesh4902/tourism-website/assets/83058036/c97bb4b1-dbd0-464c-83ce-e5b403d0a8a5)
 
-### "Discover your next adventure with our user-friendly tourism website. Explore flights, hotels, holiday packages, and curated collections for an unforgettable travel experience."
-
-
-### https://tinyurl.com/2tz4dmxu
 
 ## How to Start This Application on Your Local PC
 
